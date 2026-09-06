@@ -316,6 +316,7 @@ UP
 DOWN
 TIMEOUT
 ERROR
+UNKOWN - for new created monitor until it configured
 ```
 
 The exact result categories can be refined during implementation.
